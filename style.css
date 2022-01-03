@@ -1,5 +1,10 @@
 body{
-    background-color: #333;
+    /* background-image: url(bg-flower01.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; */
+    background: #333;
+
 }
 p{
     color:#fff;
